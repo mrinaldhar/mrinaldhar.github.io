@@ -8,7 +8,9 @@
           "/foodbook-support/invite.html*",
           "/foodbook-support/invite/*",
           "/invite.html*",
-          "/invite/*"
+          "/invite/*",
+          "/pulse-support/invite.html*",
+          "/pulse-support/invite/*"
         ]
       }
     ]
