@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "533SYH2C63.com.mrinaldhar.foodbook",
+        "paths": [
+          "/foodbook-support/invite.html*",
+          "/foodbook-support/invite/*",
+          "/invite.html*",
+          "/invite/*"
+        ]
+      }
+    ]
+  }
+}
